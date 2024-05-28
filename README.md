@@ -60,3 +60,9 @@ Descripción general de los elementos:
 * 3-Funciones: Notebook con los endpoints y sistema de recomendación desarrollados en la app
 * game_reviews - steam_games: Datasets utilizados en el EDA (Falta user_items debido al peso del archivo)
 * Carpeta Aplicación: app dockerizada que se montó en render con FastAPI
+
+
+# Enlaces
+
+https://pisteam.onrender.com/
+https://hub.docker.com/r/javyleonhart/pisteam
