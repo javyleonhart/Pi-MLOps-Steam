@@ -51,7 +51,7 @@ Los datasets utilizados son muy grandes para cargarlos en este proyecto, por lo 
 * sent_neu: Cantidad de reviews neutrales
 * sent_pos: Cantidad de reviews positivas
 
-## Elementos del repositorio
+# Elementos del repositorio
 
 Descripción general de los elementos:
 
@@ -71,6 +71,6 @@ Descripción general de los elementos:
 
 # Enlaces
 
-* [https://pisteam.onrender.com/]("API en Render")
-* [https://hub.docker.com/r/javyleonhart/pisteam]("Imagen de Docker")
-* [https://youtu.be/gfhXLorEyN0?si=IJF5wzRhHMT2IdbX]("Video de presentación")
+* [API en Render](https://pisteam.onrender.com/)
+* [Imagen de Docker](https://hub.docker.com/r/javyleonhart/pisteam)
+* [Video de presentación](https://youtu.be/gfhXLorEyN0?si=IJF5wzRhHMT2IdbX)
