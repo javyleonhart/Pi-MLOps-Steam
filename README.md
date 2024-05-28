@@ -61,8 +61,16 @@ Descripción general de los elementos:
 * game_reviews - steam_games: Datasets utilizados en el EDA (Falta user_items debido al peso del archivo)
 * Carpeta Aplicación: app dockerizada que se montó en render con FastAPI
 
+# Tecnología utilizada
+* Python
+* FastAPI
+* Pandas
+* Scikit-learn
+* NLTK
+* Render 
 
 # Enlaces
 
-* https://pisteam.onrender.com/
-* https://hub.docker.com/r/javyleonhart/pisteam
+* (https://pisteam.onrender.com/ "API en Render")
+* (https://hub.docker.com/r/javyleonhart/pisteam "Imagen de Docker")
+* (https://youtu.be/gfhXLorEyN0?si=IJF5wzRhHMT2IdbX "Video de presentación")
